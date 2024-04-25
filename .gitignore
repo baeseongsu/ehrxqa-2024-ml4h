@@ -164,6 +164,12 @@ physionet.org/*
 physionet.org/files/mimic-cxr-jpg/2.0.0/*
 physionet.org/files/chest-imagenome/1.0.0/*
 physionet.org/files/mimiciv/2.2/*
+dataset_builder/preprocessed_data/*
+dataset/mimic_iv_cxr/train/*
+dataset/mimic_iv_cxr/valid/*
+dataset/mimic_iv_cxr/test/*
+database/mimic_iv_cxr/silver/*
+database/mimic_iv_cxr/gold/*
 
 # keep
 !physionet.org/files/mimic-cxr-jpg/2.0.0/.gitkeep
